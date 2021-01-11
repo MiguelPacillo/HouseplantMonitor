@@ -20,4 +20,8 @@ Materials needed to construct this project are as follows:
 * A series of male to male breadboard jumper wires
 * 3+ Female to male extender cables for water sensor (Optional)
 
+## Setup
+
+Feel free to use solid core wires instead of jumper wires for a neater layout.
+
 ![schematic](https://i.imgur.com/gXaHqwg.png)
