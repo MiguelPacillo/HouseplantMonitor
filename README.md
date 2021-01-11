@@ -5,6 +5,8 @@ before a plant must be watered again, and reminding users to water their plant b
 Utilized an Arduino microcontroller, LCD screen to display the information and menus, water conductivity sensor to measure soil
 moisture, and other electronic components such as tactile buttons, resistors, and a buzzer to play sounds.
 
+Users can change the alarm threshold parameter, among other details, in the settings menu.
+
 # Materials
 Materials needed to construct this project are as follows:
 
@@ -18,3 +20,4 @@ Materials needed to construct this project are as follows:
 * A series of male to male breadboard jumper wires
 * 3+ Female to male extender cables for water sensor (Optional)
 
+![schematic](https://i.imgur.com/8aD33ST.jpg)
