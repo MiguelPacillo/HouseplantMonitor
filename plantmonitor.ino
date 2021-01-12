@@ -260,7 +260,7 @@ int cursorPlacer(int initialPlace, int value) { // Function for placing cursor t
 
 void readSensor() { // Here I'll take multiple sensor readings and average them for accuracy
 
-  int maxValue = 400; // This is the maximum value the water sensor can read
+  int maxValue = 400; // This is the maximum value the water sensor can read (THIS MAY NEED TO BE CHANGED DEPENDING ON YOUR WATER SENSOR)
   double waterVal = 0;
 
   for (int i = 0; i < 5; i++) {
